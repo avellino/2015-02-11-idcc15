@@ -11,7 +11,7 @@ title: Using APIs to access life science data available on the web
 Wednesday, 11th February, 2015
 
 
-Speakers: Aleksandra Pawlik, University of Manchester & Data Carpenry  
+Speakers: Aleksandra Pawlik, University of Manchester & Data Carpentry  
 
 
 **Objectives of the workshop:**  
@@ -20,7 +20,7 @@ The objectives:
 
  * directly experiencing Data Carpentry teaching style;  
  * discussing the applicability of Data Carpentry lessons to the participants' own working context;  
- * demonstrating the power of prgrammatically accessing data from the web;  
+ * demonstrating the power of programmatically accessing data from the web;  
  * hands-on learning  using API with ROpenSci packages to access data from the web;  
  * hands-on experience on collaborative lesson development and improvement (via GitHub) 
 
